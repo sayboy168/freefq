@@ -1,4 +1,4 @@
-这是一条新奇的连接。
+这是一条新奇的链接。
 
 https://raw.githubusercontent.com/anonymousbone/free_v2ray/master/freefq/v2
 
