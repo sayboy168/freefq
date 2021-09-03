@@ -1,6 +1,10 @@
-这是一条新奇的链接。
+这是一条神奇的链接，不保证可用，随时跑路！
 
-https://raw.githubusercontent.com/anonymousbone/freefq/master/freefq/v2
+v2 订阅地址：
+https://raw.githubusercontent.com/anonymousbone/freefq/master/v2
+
+SSR 订阅地址：
+https://raw.githubusercontent.com/anonymousbone/freefq/master/ssr
 
 手动维护，不定时更新！！
 
